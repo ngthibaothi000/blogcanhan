@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bài Đăng on My blog</title>
+    <link>http://localhost:1313/english/post/</link>
+    <description>Recent content in Bài Đăng on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 27 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/english/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hiệu Năng và Tối Ưu Hóa trong JavaScript</title>
+      <link>http://localhost:1313/english/post/performance-and-optimization/</link>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/english/post/performance-and-optimization/</guid>
+      
+        <description>Hướng dẫn cải thiện hiệu năng và tối ưu hóa mã JavaScript</description>
+      
+    </item>
+    
+    <item>
+      <title>JavaScript và API</title>
+      <link>http://localhost:1313/english/post/javascript-and-api/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/english/post/javascript-and-api/</guid>
+      
+        <description>Hướng dẫn sử dụng API trong JavaScript</description>
+      
+    </item>
+    
+    <item>
+      <title>Các Thư Viện và Framework Phổ Biến trong Java</title>
+      <link>http://localhost:1313/english/post/librariesframeworks/</link>
+      <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/english/post/librariesframeworks/</guid>
+      
+        <description>Hướng dẫn về các thư viện và framework phổ biến trong Java</description>
+      
+    </item>
+    
+    <item>
+      <title>Hướng Dẫn Sử Dụng Icon trong Java</title>
+      <link>http://localhost:1313/english/post/icon-support/</link>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/english/post/icon-support/</guid>
+      
+        <description>Hướng dẫn cách sử dụng icon trong Java</description>
+      
+    </item>
+    
+    <item>
+      <title>JavaScript Hiện Đại</title>
+      <link>http://localhost:1313/english/post/modern-javascript/</link>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/english/post/modern-javascript/</guid>
+      
+        <description>Hướng dẫn hiểu về các tính năng hiện đại của JavaScript</description>
+      
+    </item>
+    
+    <item>
+      <title>Mẹo Học Java Hiệu Quả</title>
+      <link>http://localhost:1313/english/post/tips-for-learning-java/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/english/post/tips-for-learning-java/</guid>
+      
+        <description>Các mẹo và chiến lược để học Java hiệu quả</description>
+      
+    </item>
+    
+    <item>
+      <title>Giới Thiệu về Các Ứng Dụng Chính của JavaScript</title>
+      <link>http://localhost:1313/english/post/applications-javascript/</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/english/post/applications-javascript/</guid>
+      
+        <description>Hướng dẫn hiểu về các ứng dụng chính của JavaScript</description>
+      
+    </item>
+    
+    <item>
+      <title>Giới Thiệu Về Java Và JavaScript</title>
+      <link>http://localhost:1313/english/post/introduction-to-java-and-javascript/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/english/post/introduction-to-java-and-javascript/</guid>
+      
+        <description>Tìm hiểu về Java và JavaScript, hai ngôn ngữ lập trình phổ biến</description>
+      
+    </item>
+    
+    <item>
+      <title>Giới Thiệu về Lập Trình Hướng Đối Tượng trong Java</title>
+      <link>http://localhost:1313/english/post/oop/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/english/post/oop/</guid>
+      
+        <description>Hướng dẫn hiểu về lập trình hướng đối tượng trong Java</description>
+      
+    </item>
+    
+    <item>
+      <title>Cài Đặt Môi Trường Phát Triển Java</title>
+      <link>http://localhost:1313/english/post/setting/</link>
+      <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/english/post/setting/</guid>
+      
+        <description>Hướng dẫn cài đặt môi trường phát triển Java</description>
+      
+    </item>
+    
+    <item>
+      <title>Series Part 1</title>
+      <link>http://localhost:1313/english/post/series-part-1/</link>
+      <pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/english/post/series-part-1/</guid>
+      
+        <description>A brief guide to how to setup series part 1</description>
+      
+    </item>
+    
+    <item>
+      <title>Series Part 2</title>
+      <link>http://localhost:1313/english/post/series-part-2/</link>
+      <pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/english/post/series-part-2/</guid>
+      
+        <description>A brief guide to how to setup series part 2</description>
+      
+    </item>
+    
+  </channel>
+</rss>

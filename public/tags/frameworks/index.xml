@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frameworks on My blog</title>
+    <link>http://localhost:1313/tags/frameworks/</link>
+    <description>Recent content in Frameworks on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 22 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/frameworks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Các Thư Viện và Framework Phổ Biến trong Java</title>
+      <link>http://localhost:1313/english/post/librariesframeworks/</link>
+      <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/english/post/librariesframeworks/</guid>
+      
+        <description>Hướng dẫn về các thư viện và framework phổ biến trong Java</description>
+      
+    </item>
+    
+    <item>
+      <title>Các Thư Viện và Framework Phổ Biến trong Java</title>
+      <link>http://localhost:1313/post/librariesframeworks/</link>
+      <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/librariesframeworks/</guid>
+      
+        <description>Hướng dẫn về các thư viện và framework phổ biến trong Java</description>
+      
+    </item>
+    
+  </channel>
+</rss>

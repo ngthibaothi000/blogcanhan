@@ -1,0 +1,41 @@
+  [[main]]
+  name = "Trang Chủ"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[main]]
+  name = "Bài Đăng"
+  weight = 200
+  identifier = "posts"
+  url = "/post/"
+
+  [[main]]
+  name = "Khóa Học"
+  weight = 300
+  identifier = "portfolio"
+  url = "/portfolio/"
+
+  [[main]]
+  name = "Giới Thiệu"
+  weight = 400
+  identifier = "about"
+  url = "/about/"
+
+  [[main]]
+  name = "Liên Hệ"
+  weight = 600
+  identifier = "contact"
+  url = "/contact/"
+
+  [[main]]
+  name = "Chứng chỉ"
+  weight = 520
+  identifier = "certifications"
+  url = "/certifications/"
+
+  [[footer]]
+  name = "imprint"
+  weight = 1
+  identifier = "imprint"
+  url = "/imprint/"

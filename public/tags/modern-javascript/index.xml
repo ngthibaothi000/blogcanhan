@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Modern JavaScript on My blog</title>
+    <link>http://localhost:1313/tags/modern-javascript/</link>
+    <description>Recent content in Modern JavaScript on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 20 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/modern-javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JavaScript Hiện Đại</title>
+      <link>http://localhost:1313/english/post/modern-javascript/</link>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/english/post/modern-javascript/</guid>
+      
+        <description>Hướng dẫn hiểu về các tính năng hiện đại của JavaScript</description>
+      
+    </item>
+    
+    <item>
+      <title>JavaScript Hiện Đại</title>
+      <link>http://localhost:1313/post/modern-javascript/</link>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/modern-javascript/</guid>
+      
+        <description>Hướng dẫn hiểu về các tính năng hiện đại của JavaScript</description>
+      
+    </item>
+    
+  </channel>
+</rss>

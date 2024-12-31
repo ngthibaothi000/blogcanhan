@@ -1,0 +1,68 @@
+portfolioitems:
+  # portfolio category
+  - title: Khóa Học Java
+    description: 'Các khóa học Java nổi bật'
+    portfolioitem:
+      - name: Java Programming Masterclass for Software Developers (Udemy)
+        image: '/images/portfolio/code1.jpg'  
+        link: https://www.udemy.com/course/java-the-complete-java-developer-course/
+        linktext: 'Tham gia khóa học'
+        description: 'Khóa học này trên Udemy được thiết kế để đưa bạn từ người mới bắt đầu trở thành chuyên gia. Nó bao gồm một loạt các chủ đề, bao gồm lập trình hướng đối tượng, cấu trúc dữ liệu và xây dựng các ứng dụng thực tế.'
+        tags:
+          - Java
+          - Udemy
+        status: 'Hoàn Thành'
+        start: '2023'
+        end: '2024'
+        authors:
+          - baothi
+          - ademy
+      - name: Object-Oriented Programming in Java (Coursera)
+        image: '/images/portfolio/code2.jpg'
+        link: https://www.coursera.org/specializations/java-programming
+        linktext: 'Tham gia khóa học'
+        description: 'Được cung cấp bởi Đại học Duke trên Coursera, khóa học này tập trung vào các nguyên tắc của lập trình hướng đối tượng và cách áp dụng chúng trong Java. Đây là lựa chọn lý tưởng cho những ai muốn làm sâu sắc thêm hiểu biết về các khái niệm OOP.'
+        status: 'Đang tham gia'
+        tags:
+          - Java
+          - Coursera
+      - name: Advanced Java Programming (LinkedIn Learning)
+        image: '/images/portfolio/code3.jpg'
+        link: https://www.linkedin.com/learning/advanced-java-programming
+        linktext: 'Tham gia khóa học'
+        status: 'Đang tham gia'
+        description: 'Khóa học này dành cho những lập trình viên đã có kiến thức cơ bản về Java và muốn nâng cao kỹ năng của mình. Nó bao gồm các chủ đề nâng cao như lập trình đa luồng, quản lý bộ nhớ và tối ưu hóa hiệu suất.'
+        tags:
+          - Java
+          - LinkedIn Learning
+  # portfolio category
+  - title: Khóa học JavaScript
+    description: 'Các khóa học JavaScript nổi bật'
+    portfolioitem:
+      - name: JavaScript Basics (Coursera)
+        image: '/images/portfolio/code4.jpg'
+        link: https://www.coursera.org/learn/javascript-basics
+        linktext: 'Tham gia khóa học'
+        status: 'Đang tham gia'
+        description: 'Khóa học này của Đại học California, Davis giúp bạn nắm vững các khái niệm cơ bản của JavaScript.'
+        tags:
+          - JavaScrip
+          - Coursera
+      - name: The Complete JavaScript Course 2022 - From Zero to Expert! (Udemy)
+        image: '/images/portfolio/code5.jpg'
+        link: https://www.udemy.com/course/the-complete-javascript-course/
+        linktext: 'Tham gia khóa học'
+        status: 'Đang tham gia'
+        description: 'Khóa học này của Jonas Schmedtmann rất toàn diện và phù hợp cho cả người mới bắt đầu và người đã có kinh nghiệm.'
+        tags:
+          - JavaScript
+          - Udemy
+      - name: JavaScript for Web Development (Coursera)
+        image: '/images/portfolio/code6.jpg'
+        link: https://www.coursera.org/learn/javascript-basics
+        linktext: 'Tham gia khóa học'
+        status: 'Đang tham gia'
+        description: 'Khóa học này của Đại học California, Davis giúp bạn nắm vững các khái niệm cơ bản của JavaScript.'
+        tags:
+          - JavaScript
+          - Coursera
